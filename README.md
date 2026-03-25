@@ -25,10 +25,6 @@ CREAM-WEBSITE/
 
 👉 https://pasindutheekshana.github.io/CREAM-WEBSITE/
 
-📸 Screenshots
-
-(Add screenshots of your website here)
-
 🎯 Purpose of the Project
 
 This project was developed to practice and demonstrate frontend web development skills, including layout design, styling, and basic interactivity.
